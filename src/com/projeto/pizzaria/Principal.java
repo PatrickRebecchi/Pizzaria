@@ -13,7 +13,14 @@ public class Principal {
         Pedido pedido = new Pedido();
 
         while (continuar) {
-            System.out.println("1- Fazer pedido\n2- Carrinho \n3- Ver cardapio\n4- Ver pedidos\n5- Contados\n6- Sair");
+            System.out.println(" - \n" +
+                    "Inicio \n"  +
+                    "1- Fazer pedido\n2" +
+                    "- Carrinho \n3" +
+                    "- Ver cardapio\n4" +
+                    "- Ver pedidos\n5" +
+                    "- Contados\n6- Sair"
+            );
             int escolhaMenu = sc.nextInt();
 
             switch (escolhaMenu) {
