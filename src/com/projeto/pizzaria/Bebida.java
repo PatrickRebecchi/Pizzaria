@@ -1,27 +1,4 @@
 package com.projeto.pizzaria;
-//public class Bebidas {
-//    public static String[] obterBebidas() {
-//        String[] bebidas = {
-//                "Refrigerante 2L Coca-Cola",
-//                "Refrigerante 600ml Coca-Cola",
-//                "Refrigerante 350ml Coca-Cola",
-//                "Refrigerante 2L Guaraná",
-//                "Refrigerante 600ml Guaraná",
-//                "Refrigerante 350ml Guaraná",
-//                "Refrigerante 2L Sprit",
-//                "Refrigerante 600ml Sprit",
-//                "Refrigerante 350ml Sprit",
-//                "Refrigerante 2L Pepsi",
-//                "Suco de Laranja",
-//                "Água Mineral com Gás",
-//                "Água Mineral sem Gás",
-//                "Cerveja Heineken",
-//                "Cerveja Skol",
-//                "Cerveja Brahma"
-//        };
-//        return bebidas;
-//    }
-//}
 
 import java.util.ArrayList;
 import java.util.List;
