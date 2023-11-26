@@ -67,7 +67,7 @@ public class Principal {
                     System.out.println(contatos);
                     break;
                 case 6:
-                    // verificaçao de encerramento 
+                    // verificaçao de encerramento
                     System.out.println("Tem certeza que deseja sair? (S/N)");
                     String resposta = sc.next().toUpperCase();
 
